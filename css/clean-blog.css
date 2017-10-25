@@ -69,7 +69,7 @@ img::selection {
 
 img::-moz-selection {
   color: white;
-  background: transparent; }
+  background: black; }
 
 body {
   -webkit-tap-highlight-color: #0085A1; }
