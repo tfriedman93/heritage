@@ -54,7 +54,7 @@ blockquote {
   border-bottom-left-radius: 5px; }
 
 ::-moz-selection {
-  color: white;
+  color: black;
   background: #0085A1;
   text-shadow: none; }
 
