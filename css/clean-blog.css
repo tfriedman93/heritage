@@ -310,7 +310,7 @@ footer {
   border-color: #0085A1;
   background-color: #0085A1; }
   .btn-primary.focus, .btn-primary:focus {
-    color: white;
+    color: black;
     border-color: #001c22;
     background-color: #005b6e; }
   .btn-primary:hover {
