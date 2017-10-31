@@ -60,7 +60,7 @@ blockquote {
   text-shadow: none; }
 
 ::selection {
-  color: white;
+  color: black;
   background: #0085A1;
   text-shadow: none; }
 
@@ -297,6 +297,7 @@ footer {
     text-align: center; }
 
 .btn {
+  color:black;
   font-size: 14px;
   font-weight: 800;
   padding: 15px 25px;
